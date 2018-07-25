@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Mvc;
 
 namespace DjMusic.Controllers
 {
@@ -9,8 +10,7 @@ namespace DjMusic.Controllers
     {
         public string Detail()
         {
-            return "Hello from the Dj Music controller!";
+            return "Hello from Dj!";
         }
-    
     }
 }
