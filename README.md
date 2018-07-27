@@ -1,2 +1,3 @@
 # DJ_Ark
-Favorite music of DJ Ark. 
+Often times I'm at the club and want to request a song from the DJ. It is a hassle to walk through the crowd then yell at the DJ while he has his headphones on. It seems as though I am disturbing the DJ. I'm sure the DJ wants to play songs that the crowd wants and wants a smoother way of going about it. I have a friend who is a professional DJ and he suggested I made an app which would smoothly notify the DJ of songs that people in that club wants to hear. I thought this was a great idea to keep people on the dance floor and just tap few buttons on the app to request a song. The DJ quickly gets notified on his tablet next to the turn table and he is able to keep his headphone on. 
+Instructions on how to open the application: After opening my project on Visual Studio, click Start on the top, it should direct you to http://localhost:57783 where the application resides. 
