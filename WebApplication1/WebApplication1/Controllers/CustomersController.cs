@@ -12,7 +12,7 @@ namespace WebApplication1.Controllers
 {
     public class CustomersController : Controller
     {
-        private EFDBEntities db = new EFDBEntities();
+        private MusicContext db = new MusicContext();
 
         // GET: Customers
         public ActionResult Index()
